@@ -1,7 +1,5 @@
 *.app
 *.blockmap
-*.dmg
-*.exe
 *.log
 *.msi
 *.pkg
