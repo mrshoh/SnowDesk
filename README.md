@@ -22,7 +22,7 @@ Inspired by the idea of desktop weather apps; all code and artwork here are orig
 Grant Accessibility access so snow lands exactly on the Dock.
 
 **Windows**: `cd windows && npm install && npm start` (or `npm run dist` for an installer).
-Windows binaries are large, so they are published under **Releases** instead of being committed.
+Prebuilt installers are included in this repo: [`mac/SnowDesk.dmg`](mac/SnowDesk.dmg) (macOS) and [`windows/SnowDesk-Setup-1.0.0.exe`](windows/SnowDesk-Setup-1.0.0.exe) (Windows, 82 MB).
 
 ## Notes
 - The apps are not code-signed or notarized: macOS shows "unidentified developer" (right-click, Open) and Windows SmartScreen shows "Windows protected your PC" (More info, Run anyway).
