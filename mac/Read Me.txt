@@ -1,0 +1,21 @@
+SnowDesk
+========
+
+Weather for your Mac desktop: snow, rain, sakura, leaves, fireflies and starfall.
+
+INSTALL
+  1. Drag SnowDesk into the Applications folder.
+  2. Open it. A snowflake icon appears in the menu bar (there is no Dock icon).
+  3. If macOS says the app is from an unidentified developer, right-click the app,
+     choose Open, then Open again. You only need to do this once.
+
+ALLOW DOCK ACCESS (recommended)
+  Snow lands exactly on top of your Dock when SnowDesk can read the Dock's position.
+  Open System Settings > Privacy & Security > Accessibility and switch SnowDesk on,
+  or use "Allow Dock access..." in the SnowDesk menu. Without it, the Dock position
+  is only estimated.
+
+USE
+  Menu-bar icon > pick an effect, wallpaper, intensity, launch at login.
+  Move the pointer through snow to push it around. Leaves and petals scatter too.
+  Drag a window and the snow on it slides off.
